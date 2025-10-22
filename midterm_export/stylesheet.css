@@ -1,0 +1,48 @@
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+body {
+    margin: auto;
+    width: 80%;
+    font-family: Helvetica;
+    font-size: 19px;
+    line-height: 1.6;
+}
+#content {
+    margin: 0 auto;
+    width: 900px;
+}
+blockquote {
+font: 16px/24px
+}
+
+#masthead {
+    background-color: rgb(112, 124, 160);
+    text-align: center;
+    padding: 30px 0;
+    font-family: helvetica Georgia, sans-serif;
+    font-style: oblique;
+    border-bottom: 2px solid white;
+}
+
+.center-headline {
+  text-align: center;
+  margin-top: 50px;
+}
+blockquote {
+  font: 16px/24px normal helvetica, sans-serif;
+  font-style: italic;
+  margin-top: 10px;
+  color:brown
+  margin-left: 12px;
+  padding-left: 10px;
+  border-left: 4x solid #ccc;
+}
+.image-wrapper {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 40px;
+  font-size: 1.8em;
+  color: black;
+  text-align: center;
+}
