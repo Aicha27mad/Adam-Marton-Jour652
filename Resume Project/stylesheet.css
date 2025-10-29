@@ -1,0 +1,80 @@
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+body {
+    margin: auto;
+    width: 80%;
+    font-family: Helvetica;
+    font-size: 19px;
+    line-height: 1.6;
+    background-color: yellow;
+}
+
+body { 
+    background-color: white;
+}
+
+#content {
+    margin: 0 auto;
+    width: 900px;
+}
+blockquote {
+font: 20px/24px
+color; brown 
+text-align: center;
+}
+h3, h4, h5, h6 {
+    font-size: 20;
+}
+h2 { 
+    background-color: aqua;
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+#masthead {
+    background-color: rgb(133, 160, 112);
+    text-align: center;
+    padding: 30px 0;
+    font-family: helvetica Georgia, sans-serif;
+    font-style: oblique;
+    border-bottom: 2px solid white;
+}
+
+.image-wrapper {
+  text-align: center;
+}
+
+
+      .experience-entry {
+  margin: 2rem 0;
+}
+
+.experience-entry h3 {
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+.experience-entry h4 {
+  color: #6c757d; 
+  font-size: 1.1rem;
+  margin-bottom: 0.75rem;
+}
+
+.experience-entry ul {
+  margin-top: 0.5rem;
+  padding-left: 1.5rem;
+}
+
+.experience-entry li {
+  margin-bottom: 0.4rem;
+  line-height: 1.6;
+}
+
+.footer-row {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: #f8f9fa;
+  padding: 2rem 0;
+}
